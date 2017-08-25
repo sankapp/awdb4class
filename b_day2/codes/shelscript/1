@@ -1,0 +1,9 @@
+#/!Bin/bash
+
+echo "list all files in codes folder"
+
+ls -la ../../automatin
+
+cd dev/
+
+read -p "Enter First Name =" fname
