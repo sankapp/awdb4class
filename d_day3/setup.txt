@@ -1,0 +1,23 @@
+ubuntu
+
+sudo apt-get install [utility]
+
+sudo apt-get install git
+sudo apt-get install htop
+
+
+server -> 
+install Appachi ->
+create sites ->
+comunicate with host 
+
+first update ubunto 
+
+sudo apt-get update
+sudo apt-get install aparche2
+
+config aparche
+
+etc/apache2/
+
+ 

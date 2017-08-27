@@ -1,0 +1,26 @@
+#!/bin/bash
+
+echo "**********************Login Form*************************"
+
+
+uname="admin"
+pass="123"
+
+read -p "Enter user name :" ename
+read -p "Enter password :" epass
+
+if [ $uname == $ename ] && [ $pass == $epass ]
+
+
+login(){
+
+	(($1 == $ename))
+	(($2 == $epass))
+
+}  
+
+echo "Invalid User name or password"
+
+fi
+
+
