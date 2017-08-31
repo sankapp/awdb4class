@@ -1,0 +1,5 @@
+1 ) Items Name: Computer ----- Item Category: Machine ------Item Code: 00001 ------Item Price: 94850.00
+2 ) Item Name: Cal ----- Item Category: Stationary ------Item Code: 00002 ------Item Price: 1265.96
+3 ) Item Name: Car ----- Item Category: Vehicle ------Item Code: 00003 ------Item Price: 1800000
+4 ) Item Name: van ----- Item Category: vehicle ------Item Code: 00004 ------Item Price: 3500000
+5 ) Item Name: Cat ----- Item Category: Animal ------Item Code: 00005 ------Item Price: 1500.00
